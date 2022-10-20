@@ -9,7 +9,6 @@ Using Deep Learning to Correlate Reddit Posts with Economic Time Series during t
 
 
 Link to the paper:
-https://ieeexplore......
 https://aclanthology.org/2021.finnlp-1.2.pdf
 Group Number:
 20
