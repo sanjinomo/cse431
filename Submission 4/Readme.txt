@@ -8,19 +8,12 @@ Paper presentation YouTube link(anyone can view without login):
 https://youtu.be/MOJDMe3GnrE
 
 
-Paper submission date (to workshop/conference):
 
+Conference login link for submitted paper: https://easychair.org/conferences/submitted?a=30123756;submission=6341082;track=296258
+Conference Name: JCDL 2023 (Joint Conference on Digital Libraries 2023)
+Conference URL: https://easychair.org/my/conference?conf=jcdl2023
+Conference Submission Date: 03/01/2023
 
-
-Paper submission ID: (received) from conference/workshop:
-
-
-
-Conference Name:
-
-
-Conference URL:
-https://iccit.org.bd/2022/
 
 Group Number:
 20
