@@ -4,7 +4,8 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 Emotion Classification for cross-lingual song lyrics.
 
-Paper presentation (anyone can view without login):
+Paper presentation YouTube link(anyone can view without login):
+https://youtu.be/MOJDMe3GnrE
 
 
 Paper submission date (to workshop/conference):
